@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 1f448e6a1757059468e83e46c508eb07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4303142692699102376
+    second: PinClipart.com_terraria-clipart_2970133_0
+  - first:
+      213: -7325155436228741390
+    second: PinClipart.com_terraria-clipart_2970133_1
+  - first:
+      213: -7070705726380997831
+    second: PinClipart.com_terraria-clipart_2970133_2
+  - first:
+      213: -3194336345935464675
+    second: PinClipart.com_terraria-clipart_2970133_3
+  - first:
+      213: 124860534372313100
+    second: PinClipart.com_terraria-clipart_2970133_4
+  - first:
+      213: 7664997256344450976
+    second: PinClipart.com_terraria-clipart_2970133_5
+  - first:
+      213: -5789433037067090889
+    second: PinClipart.com_terraria-clipart_2970133_6
+  - first:
+      213: -7683598274257346800
+    second: PinClipart.com_terraria-clipart_2970133_7
+  - first:
+      213: 8489660896068830836
+    second: PinClipart.com_terraria-clipart_2970133_8
+  - first:
+      213: -1563729329469742166
+    second: PinClipart.com_terraria-clipart_2970133_9
+  - first:
+      213: 2786351842172806520
+    second: PinClipart.com_terraria-clipart_2970133_10
+  - first:
+      213: -5827500718721569281
+    second: PinClipart.com_terraria-clipart_2970133_11
+  - first:
+      213: 5163197874031367830
+    second: PinClipart.com_terraria-clipart_2970133_12
+  - first:
+      213: -1042767457968331694
+    second: PinClipart.com_terraria-clipart_2970133_13
+  - first:
+      213: -7428955572621575082
+    second: PinClipart.com_terraria-clipart_2970133_14
+  - first:
+      213: 663962937540250154
+    second: PinClipart.com_terraria-clipart_2970133_15
+  - first:
+      213: -4036524919535698177
+    second: PinClipart.com_terraria-clipart_2970133_16
+  - first:
+      213: 7463819845537432053
+    second: PinClipart.com_terraria-clipart_2970133_17
+  - first:
+      213: -1314032521726064024
+    second: PinClipart.com_terraria-clipart_2970133_18
+  - first:
+      213: 3506595562104043365
+    second: PinClipart.com_terraria-clipart_2970133_19
+  - first:
+      213: 4807355190267198573
+    second: PinClipart.com_terraria-clipart_2970133_20
+  - first:
+      213: 2782585120425593383
+    second: PinClipart.com_terraria-clipart_2970133_21
+  - first:
+      213: -3842842259598752987
+    second: PinClipart.com_terraria-clipart_2970133_22
+  - first:
+      213: 5052799749408020321
+    second: PinClipart.com_terraria-clipart_2970133_23
+  - first:
+      213: 2913314606342776741
+    second: PinClipart.com_terraria-clipart_2970133_24
+  - first:
+      213: 6660738968027218711
+    second: PinClipart.com_terraria-clipart_2970133_25
+  - first:
+      213: -4797678123239640046
+    second: PinClipart.com_terraria-clipart_2970133_26
+  - first:
+      213: -170043824027300327
+    second: PinClipart.com_terraria-clipart_2970133_27
+  - first:
+      213: 9152591588332115298
+    second: PinClipart.com_terraria-clipart_2970133_28
+  - first:
+      213: 923996219110063970
+    second: PinClipart.com_terraria-clipart_2970133_29
+  - first:
+      213: -6502178820435486357
+    second: PinClipart.com_terraria-clipart_2970133_30
+  - first:
+      213: -3025581264917495908
+    second: PinClipart.com_terraria-clipart_2970133_31
+  - first:
+      213: -4130281199259619039
+    second: PinClipart.com_terraria-clipart_2970133_32
+  - first:
+      213: -1065061082723759981
+    second: PinClipart.com_terraria-clipart_2970133_33
+  - first:
+      213: -4271930809408490211
+    second: PinClipart.com_terraria-clipart_2970133_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinClipart.com_terraria-clipart_2970133_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 343
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a818b5748c4ae0800000000000000
+      internalID: -1563729329469742166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_terraria-clipart_2970133_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 231
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeff0cd8f16bf7c0800000000000000
+      internalID: -4036524919535698177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_terraria-clipart_2970133_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 119
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d5a8e9962f1640800000000000000
+      internalID: 5052799749408020321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_terraria-clipart_2970133_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 7
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69dfd510de93c5a0800000000000000
+      internalID: -6502178820435486357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
